@@ -1,2 +1,3 @@
 # Resume-Filterring
 In This Project I'have add some extra code so that Resume that need to the company will shortlist and other will throw to recycle and you can also check that how many contity is there for Particular position 
+Here you will able to filter the resume for any position for example if you have any Requirement  and you have get multipal types of resume so you can able to find which kind of resume did you get for example :- you are hiring for position on Data Scientist and you have get resume like Data-Scientist,Data-Anaylsis,Hadoop Expert,Power BI Expert etc. so how you can find that which resume is capable for our hiring position then you will get the answer from this Application
